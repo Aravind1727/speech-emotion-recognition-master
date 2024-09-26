@@ -22,21 +22,7 @@ Each of the 7356 RAVDESS files has a unique filename. The filename consists of a
 
 ---
 
-### Model is trained for 100 epochs
-
-![model is trained for 100 epochs](https://github.com/huaiyukhaw/speech-emotion-recognition/blob/master/screenshot/screenshot1.png)
-
-### Learning curve of the model
-![model accuracy](https://github.com/huaiyukhaw/speech-emotion-recognition/blob/master/screenshot/screenshot2.png)
-
-![loss accuracy](https://github.com/huaiyukhaw/speech-emotion-recognition/blob/master/screenshot/screenshot3.png)
-
-### Confusion matrix
-![confusion matrix](https://github.com/huaiyukhaw/speech-emotion-recognition/blob/master/screenshot/screenshot4.png)
-
-### Model summary
-![model summary](https://github.com/huaiyukhaw/speech-emotion-recognition/blob/master/screenshot/screenshot5.png)
+####   result 
+https://github.com/Aravind1727/speech-emotion-recognition-master.git
 
 
-
-This is a group effort with my friends — Yit Tyn, Zhi Qin, and Jing Xuan.
